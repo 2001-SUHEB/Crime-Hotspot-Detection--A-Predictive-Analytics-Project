@@ -1,0 +1,2 @@
+# Crime Hotspot Detection: A Predictive Analytics Project
+ Welcome to the Crime Hotspot Detection project! This repository contains a predictive analytics project focused on crime hotspot detection using the Chicago crime dataset. The goal of this project is to analyze crime trends over multiple years, merge and clean the datasets, and develop predictive models to forecast the crime rate at specific areas in the future.
