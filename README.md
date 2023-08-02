@@ -61,9 +61,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 We would like to express our gratitude to the City of Chicago for providing the crime dataset through their open data portal, enabling this research and analysis.
 
 ---
-
-By contributing to this project, you are helping to make a positive impact on crime prevention and public safety. Let's join hands to build a safer future! 🚓🔒
-
-For any questions or inquiries, contact us at: crime.hotspot.project@example.com
-
-Last Updated: DD-MMM-YYYY
+ 
